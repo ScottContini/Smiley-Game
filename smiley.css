@@ -1,0 +1,38 @@
+ 
+body {
+  background-color: #b3d9ff;
+}
+
+p {
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+#smileybox {
+  position: absolute;
+  width: 1000px;
+  height: 600px;
+  padding: 0px;
+  border: 2px solid navy;
+  margin: 0px;
+}
+
+#time {
+  color: red;
+  position: absolute;
+  top: 20px;
+  left: 870px;
+}
+
+button {
+  border: 3px double black;
+  background-color: #33adff;
+  color: red;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+
